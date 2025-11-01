@@ -74,7 +74,7 @@ In the absence of labels, use domain-specific validation, manual inspection, or 
 
 🧮 Strengths & Limitations
 
-Strengths
+👉Strengths
 
 Fast, scalable, and simple to implement.
 
@@ -82,7 +82,7 @@ Works well on high-dimensional data and large datasets.
 
 No strict assumptions about data distribution.
 
-Limitations
+👉Limitations
 
 Choice of contamination (expected proportion of outliers) affects results and may require tuning.
 
