@@ -1,4 +1,5 @@
 🧠 Isolation Forest in Machine Learning 
+
 📌 Overview
 
 The Isolation Forest algorithm is an unsupervised learning method for anomaly/outlier detection. It relies on the intuition that anomalies are “few and different,” so they can be isolated more quickly than normal observations. The method isolates observations by randomly selecting features and split values; the number of splits needed to isolate a point indicates how anomalous it is.
